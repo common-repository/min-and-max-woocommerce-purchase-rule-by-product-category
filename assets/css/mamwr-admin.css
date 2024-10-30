@@ -1,0 +1,75 @@
+.mamwr-container h2 {
+    display: block;
+    font-size: 18px !important;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 700 !important;
+}
+p.mamwr-heading {
+    font-size: 20px !important;
+    font-weight: 600;
+    margin: 0;
+}
+.mamwr-inner-block {
+    margin-top: 10px;
+}
+.mamwr-inner-block ul.tabs{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.mamwr-inner-block ul.tabs li{
+    background: none;
+    display: inline-block;
+    cursor: pointer;
+    font-weight: 500;
+    margin-bottom: 0;
+    border: 1px solid #d8d8d8;
+    margin-left: 0px;
+    margin-right: 2px;
+    background: #fff;
+    color: #222;
+    font-size: 13px;
+    padding: 7px 20px;
+}
+.mamwr-inner-block ul.tabs li.current{
+    color: #fff;
+    border: 1px solid #ccc;
+    background-color:#494d4e;
+    border-bottom: 0px;
+}
+.mamwr-inner-block .tab-content{
+    display: none;
+    padding: 15px;
+}
+.mamwr-inner-block .tab-content.current{
+    display: inherit;
+    border-top: 1px solid #d8d8d8;
+}
+p.mamwr-tips {
+    margin: 2px 0 5px !important;
+    color: #666;
+    font-size: 12px !important;
+    font-style: italic;
+}
+input#mamwr-btn-space {
+    margin: 25px 0px;
+}
+.mamwr_delivery_date_admin strong {
+    color: #000;
+}
+input.mamwr_msg {
+    width: 70%;
+}
+.mam_getpro {
+    pointer-events: none;
+    opacity: 0.7;
+}
+.mamget_proa {
+    font-size: 18px;
+    color: red;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-top: 3px;
+}
